@@ -8,7 +8,7 @@ An end-to-end Machine Learning pipeline designed to predict and classify cancer 
 Early detection is critical in cancer diagnosis. This project leverages supervised machine learning techniques to automate the classification of biopsy tumor measurements into benign or malignant categories, optimizing specifically for high sensitivity/recall to minimize false negative rates.
 
 ## 🛠 Tech Stack
-- **Language:** Python 3.x
+- **Language:** Python
 - **Libraries:** Pandas, NumPy, Scikit-Learn, SciPy
 - **Visualization:** Matplotlib, Seaborn
 - **Deployment / Demo (Optional):** Streamlit / Flask
@@ -42,9 +42,9 @@ Models trained and benchmarked using 5-fold Stratified Cross-Validation:
 ### Prerequisites
 ```bash
 pip install -r requirements.txt
-<b>Installation & Run:</b>
+Installation & Run:
 git clone [https://github.com/your-username/cancer-prediction.git](https://github.com/your-username/cancer-prediction.git)
 cd cancer-prediction
-<b>Run the Script:</b>
+Run the Script:
 jupyter notebook code.ipynb
 
